@@ -320,7 +320,19 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 100%;
+}
+
+.skills__php {
+  width: 85%;
+}
+
+.skills__codeIgniter{
+  width: 75%;
+}
+
+.skills__figma{
+  width: 50%;
 }
 
 .skills__css {
@@ -328,11 +340,11 @@ img {
 }
 
 .skills__js {
-  width: 65%;
+  width: 78%;
 }
 
 .skills__ux {
-  width: 85%;
+  width: 45%;
 }
 
 .skills__img {
